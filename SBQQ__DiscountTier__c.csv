@@ -1,0 +1,5 @@
+"Guid","Name","SBQQ__DiscountAmount__c","SBQQ__Discount__c","SBQQ__LowerBound__c","SBQQ__Number__c","SBQQ__Price__c","SBQQ__Schedule__c","SBQQ__UpperBound__c"
+35d92100-97d2-4f3a-9482-af68dee34d80,Tier 3,"#N/A",10.0,6.0,3.0,"#N/A",b22bbab5-83e7-42df-94b1-403876bfb41d,11.0
+7cab8e50-a383-4369-aa5e-f12e641f7c52,Tier 4,"#N/A",12.5,11.0,4.0,"#N/A",b22bbab5-83e7-42df-94b1-403876bfb41d,"#N/A"
+db6133e5-27dc-4ea9-800e-47563d45a1d5,Tier 1,"#N/A",0.0,1.0,1.0,"#N/A",b22bbab5-83e7-42df-94b1-403876bfb41d,2.0
+ea1440ab-c0ee-4910-a952-d3453ee44af7,Tier 2,"#N/A",5.0,2.0,2.0,"#N/A",b22bbab5-83e7-42df-94b1-403876bfb41d,6.0
