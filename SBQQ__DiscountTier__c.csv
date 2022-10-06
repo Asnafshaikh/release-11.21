@@ -1,5 +1,21 @@
 "Guid","Name","SBQQ__DiscountAmount__c","SBQQ__Discount__c","SBQQ__LowerBound__c","SBQQ__Number__c","SBQQ__Price__c","SBQQ__Schedule__c","SBQQ__UpperBound__c"
+0eda678e-83d9-4bdc-b237-33ca723096d4,Tier 1,"#N/A",0.0,1.0,1.0,"#N/A",a10ca6d6-626a-4f5b-81fd-3b064a3cbc3d,2.0
+19313653-f208-40a0-b093-219065a4253d,Tier 1,"#N/A",0.0,1.0,1.0,"#N/A",f172159c-4525-4302-b08a-5fde8d6be810,2.0
 35d92100-97d2-4f3a-9482-af68dee34d80,Tier 3,"#N/A",10.0,6.0,3.0,"#N/A",b22bbab5-83e7-42df-94b1-403876bfb41d,11.0
+36e1c8f6-09ba-4782-890d-050fbe9075d7,Tier 2,"#N/A",5.0,2.0,2.0,"#N/A",f172159c-4525-4302-b08a-5fde8d6be810,6.0
+4220479f-0c51-4d1d-a152-3cbd942a2b7a,Tier 1,"#N/A",0.0,1.0,1.0,"#N/A",f172159c-4525-4302-b08a-5fde8d6be810,2.0
+47740caa-5f63-40f8-a1bf-6379476e5724,Tier 4,"#N/A",12.5,11.0,4.0,"#N/A",f172159c-4525-4302-b08a-5fde8d6be810,"#N/A"
+5666a935-8e19-480f-9433-a22c04071be8,Tier 4,"#N/A",12.5,11.0,4.0,"#N/A",a10ca6d6-626a-4f5b-81fd-3b064a3cbc3d,"#N/A"
+5af26ab0-d32b-4217-ab88-59709df4284b,Tier 3,"#N/A",10.0,6.0,3.0,"#N/A",a10ca6d6-626a-4f5b-81fd-3b064a3cbc3d,11.0
+6de4f459-dd26-423e-b0df-369dd47dbad2,Tier 3,"#N/A",10.0,6.0,3.0,"#N/A",f172159c-4525-4302-b08a-5fde8d6be810,11.0
+747b1b56-ef79-4b99-8014-3dee2a45f5f7,Tier 1,"#N/A",0.0,1.0,1.0,"#N/A",a10ca6d6-626a-4f5b-81fd-3b064a3cbc3d,2.0
 7cab8e50-a383-4369-aa5e-f12e641f7c52,Tier 4,"#N/A",12.5,11.0,4.0,"#N/A",b22bbab5-83e7-42df-94b1-403876bfb41d,"#N/A"
+94a15a06-9953-460c-9f0f-b463bf9271bf,Tier 2,"#N/A",5.0,2.0,2.0,"#N/A",a10ca6d6-626a-4f5b-81fd-3b064a3cbc3d,6.0
+970828b5-049b-40f2-be71-3abf7b853b06,Tier 4,"#N/A",12.5,11.0,4.0,"#N/A",f172159c-4525-4302-b08a-5fde8d6be810,"#N/A"
+9ecc8f1b-f016-487b-87e0-c1e26fbb9e70,Tier 4,"#N/A",12.5,11.0,4.0,"#N/A",a10ca6d6-626a-4f5b-81fd-3b064a3cbc3d,"#N/A"
+bf134dfe-1843-4bb4-ad78-60bcba9d6959,Tier 2,"#N/A",5.0,2.0,2.0,"#N/A",a10ca6d6-626a-4f5b-81fd-3b064a3cbc3d,6.0
+c4c086fc-e6fa-4a4f-b46e-e6f9477dbede,Tier 3,"#N/A",10.0,6.0,3.0,"#N/A",f172159c-4525-4302-b08a-5fde8d6be810,11.0
 db6133e5-27dc-4ea9-800e-47563d45a1d5,Tier 1,"#N/A",0.0,1.0,1.0,"#N/A",b22bbab5-83e7-42df-94b1-403876bfb41d,2.0
+e7d71319-de60-418b-99c0-b83102c3219a,Tier 2,"#N/A",5.0,2.0,2.0,"#N/A",f172159c-4525-4302-b08a-5fde8d6be810,6.0
 ea1440ab-c0ee-4910-a952-d3453ee44af7,Tier 2,"#N/A",5.0,2.0,2.0,"#N/A",b22bbab5-83e7-42df-94b1-403876bfb41d,6.0
+f92ee731-d03d-4f25-949d-19bb5ecff35b,Tier 3,"#N/A",10.0,6.0,3.0,"#N/A",a10ca6d6-626a-4f5b-81fd-3b064a3cbc3d,11.0

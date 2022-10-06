@@ -1,4 +1,16 @@
 "Guid","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__TargetObject__c","al_check__c"
+115bac72-8d9e-48b1-a99e-6fff907271fd,Set Approval Level,true,"#N/A",All,"#N/A",On Initialization;Before Calculate;On Calculate;After Calculate,100.0,"#N/A",Calculator,false
+1de70ed7-1d19-48e0-bcf9-d90d0ba22b5a,Rule1,true,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator,false
+3bdf6bf9-3e33-479d-a787-e2006f8f87f4,Rule2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator,false
+474bac7c-fed1-441a-9b60-50b070b1d665,Rule2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator,false
+51b986d3-ffcf-48b7-a4fe-ed9469e54e28,Rule1,true,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator,false
+5fa3e31c-6aff-4920-a83f-2215575bf744,Rule2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator,false
+6274f6f3-f638-4a57-838c-1d1425eceba6,Set Approval Level,true,"#N/A",All,"#N/A",On Initialization;Before Calculate;On Calculate;After Calculate,100.0,"#N/A",Calculator,false
+67fbbd8c-6658-4adb-b509-cb56b878dff8,Set Approval Level,true,"#N/A",All,"#N/A",On Initialization;Before Calculate;On Calculate;After Calculate,100.0,"#N/A",Calculator,false
 6d2fb898-b881-41ee-9923-44b360a8025b,Rule1,true,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator,false
 6e8af221-fc88-4639-ab6a-f59ad89eacd3,Rule2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator,false
+a76506a9-0daf-4f0e-9f86-12ddd9a73fdf,Rule2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator,false
+c9dcfb8c-9059-4eee-9fef-6ec9863da0aa,Set Approval Level,true,"#N/A",All,"#N/A",On Initialization;Before Calculate;On Calculate;After Calculate,100.0,"#N/A",Calculator,false
 de3eb9ab-1ab3-42db-98d4-b5242fb83a84,Set Approval Level,true,"#N/A",All,"#N/A",On Initialization;Before Calculate;On Calculate;After Calculate,100.0,"#N/A",Calculator,false
+ea943c42-2c2b-4497-817a-67924d164717,Rule1,true,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator,false
+eb6c9135-b14f-4630-a86d-5772433f93e8,Rule1,true,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator,false
